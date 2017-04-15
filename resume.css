@@ -1,0 +1,54 @@
+.bg-1 { 
+    background-color: #2e2e1f;
+    color: #ffffff;
+}
+
+.bg-2 {
+	background-color: #adad85;
+}
+
+.profile {
+	width: 33%;
+
+}
+
+.container-fluid{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.container{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+a {
+	color: white;
+}
+
+.row {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.cover {
+	font-size: 24px;
+	text-indent: 30px;
+}
+
+.edu-1{
+	font-size: 24px;
+}
+.edu-2{
+	font-size: 20px;
+}
+.edu-3{
+	text-indent: 20px;
+}
+.edu-4{
+	font-size: 18px;
+}
+h2 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
