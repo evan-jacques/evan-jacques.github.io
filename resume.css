@@ -22,7 +22,10 @@
 	padding-bottom: 50px;
 }
 
-a {
+.linkTop {
+	color: white;
+}
+.linkBottom {
 	color: #1b4f72;
 }
 
